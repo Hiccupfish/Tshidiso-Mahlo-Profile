@@ -1,6 +1,7 @@
 # Tshidiso-Mahlo-Profile
 
 # Hi there, I'm Tshidiso Mahlo 👋
+![Tshidiso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiccupfish&show_icons=true&theme=radical)![image](https://github.com/user-attachments/assets/6a863b94-1afd-46d3-a329-5de6b2052b80)
 
 - 🌱 I’m currently learning: Express.js, Python, GUI design
 - 🔭 I’m currently working on: A home security system project
@@ -18,5 +19,5 @@
 - **Frameworks & Libraries:** Express, React
 - **Databases:** PostgreSQL, MySQL, MongoDB
 
-- ![Tshidiso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiccupfish&show_icons=true&theme=radical)![image](https://github.com/user-attachments/assets/6a863b94-1afd-46d3-a329-5de6b2052b80)
+- 
 
